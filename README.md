@@ -1,9 +1,65 @@
-# AE2 Pattern Archive - 问题反馈与社区仓库 (Issue Tracker)
+<div align="right">
+  <strong>Language: </strong>
+  🇬🇧 English | <a href="#-中文版-chinese-version">🇨🇳 简体中文</a>
+</div>
+
+# 🇬🇧 English Version
+
+# AE2 Pattern Archive - Issue Tracker
+
+Welcome to the public issue tracker and community repository for **AE2 Pattern Archive**!
+
+⚠️ **Important Notice:**
+The core code of this MOD is **closed-source**. This GitHub repository does not contain any game source code. It is exclusively meant for tracking **Bug Reports**, collecting **Feature Suggestions**, and receiving **Textures/Art Assets** from the amazing community.
+
+---
+
+## 📥 Downloads & Links
+
+You can download the latest version of the MOD or check for more details here:
+
+*   **CurseForge:** [Insert your CurseForge Link here]
+*   **Modrinth:** [Insert your Modrinth Link here]
+*   **MC Encyclopedia (中文资料):** [Insert your MC百科 Link here]
+
+---
+
+## 🐛 How to Report a Bug or Suggest a Feature?
+
+If you encounter crashes, missing textures, compatibility issues, or have a brilliant idea, please let me know via the **[Issues](https://github.com/你的用户名/AE2-Pattern-Archive-Issues/issues)** tab!
+
+To help me fix the issue as quickly as possible, please provide:
+1. A clear description of the issue.
+2. Your Minecraft version (e.g., 1.20.1).
+3. The Mod Loader and its version (Forge / Fabric / NeoForge).
+4. Crash reports or screenshots (if applicable).
+
+---
+
+## 🎨 Contributing Textures & Art Assets
+
+Community contributions for textures and models are highly appreciated! If you have created nice assets for **AE2 Pattern Archive**, feel free to submit them via Issues.
+
+**⚖️ Asset Contribution Disclaimer (Must Read):**
+By submitting textures, models, or any other game assets to this repository, you **explicitly grant permission** for the `AE2 Pattern Archive` project to use, modify, and distribute them freely within this closed-source MOD's future updates. Huge thanks to all the contributors!
+
+<br><br>
+
+---
+
+<div align="right">
+  <strong>语言: </strong>
+  <a href="#-english-version">🇬🇧 English</a> | 🇨🇳 简体中文
+</div>
+
+# 🇨🇳 中文版 (Chinese Version)
+
+# AE2 Pattern Archive - 问题反馈与社区仓库
 
 欢迎来到 **AE2 Pattern Archive** 的公开反馈仓库！
 
 ⚠️ **重要提示：**
-本 MOD （AE2 Pattern Archive）的**核心代码为闭源**。当前 GitHub 仓库不包含任何游戏源代码，仅专门用于收集玩家的 **Bug 反馈**、**功能建议**以及接收社区好心人提供的**贴图/美术素材**。
+本 MOD 的**核心代码为闭源**。当前 GitHub 仓库不包含任何游戏源代码，仅专门用于收集玩家的 **Bug 反馈**、**功能建议**以及接收社区好心人提供的**贴图/美术素材**。
 
 ---
 
@@ -13,7 +69,7 @@
 
 *   **CurseForge 下载:** [请在这里填写你的 CurseForge 链接]
 *   **Modrinth 下载:** [请在这里填写你的 Modrinth 链接]
-*   **MC百科 (中文资料):** [请在这里填写你的 MC百科 链接]
+*   **MC百科:** [请在这里填写你的 MC百科 链接]
 
 ---
 
