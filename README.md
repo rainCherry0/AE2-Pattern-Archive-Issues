@@ -18,9 +18,9 @@ The core code of this MOD is **closed-source**. This GitHub repository does not 
 
 You can download the latest version of the MOD or check for more details here:
 
-*   **CurseForge:** [Insert your CurseForge Link here]
-*   **Modrinth:** [Insert your Modrinth Link here]
-*   **MC Encyclopedia (中文资料):** [Insert your MC百科 Link here]
+*   **CurseForge:** [https://www.curseforge.com/minecraft/mc-mods/ae2-pattern-archive](https://www.curseforge.com/minecraft/mc-mods/ae2-pattern-archive)
+*   **Modrinth:** [https://modrinth.com/mod/ae2-pattern-archive](https://modrinth.com/mod/ae2-pattern-archive)
+*   **MC Encyclopedia (中文资料):** [https://www.mcmod.cn/class/25590.html](https://www.mcmod.cn/class/25590.html)
 
 ---
 
@@ -67,9 +67,9 @@ By submitting textures, models, or any other game assets to this repository, you
 
 你可以在以下平台下载最新版本的 MOD 或查看相关资料：
 
-*   **CurseForge 下载:** [请在这里填写你的 CurseForge 链接]
-*   **Modrinth 下载:** [请在这里填写你的 Modrinth 链接]
-*   **MC百科:** [请在这里填写你的 MC百科 链接]
+*   **CurseForge 下载:** [https://www.curseforge.com/minecraft/mc-mods/ae2-pattern-archive](https://www.curseforge.com/minecraft/mc-mods/ae2-pattern-archive)
+*   **Modrinth 下载:** [https://modrinth.com/mod/ae2-pattern-archive](https://modrinth.com/mod/ae2-pattern-archive)
+*   **MC百科:** [https://www.mcmod.cn/class/25590.html](https://www.mcmod.cn/class/25590.html)
 
 ---
 
