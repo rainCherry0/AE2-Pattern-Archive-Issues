@@ -26,7 +26,7 @@ You can download the latest version of the MOD or check for more details here:
 
 ## 🐛 How to Report a Bug or Suggest a Feature?
 
-If you encounter crashes, missing textures, compatibility issues, or have a brilliant idea, please let me know via the **[Issues](https://github.com/你的用户名/AE2-Pattern-Archive-Issues/issues)** tab!
+If you encounter crashes, missing textures, compatibility issues, or have a brilliant idea, please let me know via the **[Issues](https://github.com/rainCherry0/AE2-Pattern-Archive-Issues/issues)** tab!
 
 To help me fix the issue as quickly as possible, please provide:
 1. A clear description of the issue.
@@ -75,7 +75,7 @@ By submitting textures, models, or any other game assets to this repository, you
 
 ## 🐛 如何提交 Bug 或 功能建议？
 
-如果你在游戏中遇到了报错、物品贴图丢失、兼容性问题，或者有非常棒的新想法，欢迎通过本仓库的 **[Issues](https://github.com/你的用户名/AE2-Pattern-Archive-Issues/issues)** 页面反馈给我！
+如果你在游戏中遇到了报错、物品贴图丢失、兼容性问题，或者有非常棒的新想法，欢迎通过本仓库的 **[Issues](https://github.com/rainCherry0/AE2-Pattern-Archive-Issues/issues)** 页面反馈给我！
 
 在提交 Issue 时，请尽量提供以下信息，这将大大加快修复速度：
 1. 遇到的具体问题描述。
